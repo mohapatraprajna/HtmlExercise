@@ -1,0 +1,17 @@
+body{
+    background: url("../images/animals-avian-birds-2037796.jpg")no-repeat center center fixed;
+ background-size: cover;   
+}
+h1{
+    color:aqua;
+    text-align:center;
+   
+    width:500px;
+    padding:20px;
+    margin: 200px auto;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:3em;
+}  
+i{
+    color: red;
+}

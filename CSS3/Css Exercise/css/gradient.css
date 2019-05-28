@@ -1,0 +1,12 @@
+.big{
+    height:400px;
+    background:linear-gradient(to right,green,yellow);
+}
+.circle{
+    height:400px;
+    background: radial-gradient(white,red,white);
+}
+.triangle{
+    height:400px;
+    background: linear-gradient(to left,pink,purple,blue,green);
+}
